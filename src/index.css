@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.my-text{
+  background-color: aquamarine;
+  color: blue;
+  text-align: center;
+}
